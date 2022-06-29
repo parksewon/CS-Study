@@ -7,7 +7,7 @@
 
 ### 과목별 참고 강의 리스트
 
-[강의 리스트](https://velog.io/@parksewon/CS-study-%EA%B3%BC%EB%AA%A9%EB%B3%84-%EC%B0%B8%EA%B3%A0-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC)
+[강의 리스트 정리 링크](https://velog.io/@parksewon/CS-study-%EA%B3%BC%EB%AA%A9%EB%B3%84-%EC%B0%B8%EA%B3%A0-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC)
 
 ### 진행중
 
@@ -15,7 +15,9 @@
 
 ### 완료
 
-- ***
+-
+
+---
 
 ### 자료구조 [요약정리 velog]()
 
